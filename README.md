@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danizhou
-- 👀 I’m interested in tech, IOT & 
+- 👀 I’m interested in tech, IOT & Home automations
 - 🌱 I’m currently learning Computer science Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
