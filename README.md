@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @danizhou
+- 👋 Hi, I’m @danizhou 
 - 👀 I’m interested in tech, IOT & Home automations
-- 🌱 I’m currently learning Computer science Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer science Engineering 
 
 <!---
 danizhou/danizhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
