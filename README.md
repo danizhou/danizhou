@@ -2,7 +2,7 @@ Hello 👋! Welcome to my GitHub space! 🚀
 
 👤 **Who am I?**
 
-```markdown
+
 # Hi there, I'm Rongou Zhou 👋🚀
 
 ## 🤵 About Me
