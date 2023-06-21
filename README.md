@@ -13,10 +13,10 @@ Hello 👋! Welcome to my GitHub space! 🚀
 
 ## 🛠️ Tech Stack
 
-programming_languages = ['Python', 'Java', 'C']
+- programming_languages = ['Python', 'Java', 'C']
 {::comment} ai_libraries = ['TensorFlow', 'PyTorch'] {:/comment}
-iot_technologies = ['MQTT', 'Raspberry Pi','Esp32/8266' ,'Arduino' ]
-tools = ['GitHub', 'Docker', 'Linux', 'Aws','Azure']
+- iot_technologies = ['MQTT', 'Raspberry Pi','Esp32/8266' ,'Arduino' ]
+- tools = ['GitHub', 'Docker', 'Linux', 'Aws','Azure']
 
 ## 🔭 I’m Currently Delving Into...
 AI and IoT! I'm focusing on integrating them to devise innovative solutions for real-world applications. Keep an eye out on my repositories for some exciting projects!
