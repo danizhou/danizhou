@@ -1,33 +1,23 @@
-Hello 👋! Welcome to my GitHub space! 🚀
+# Hi, I'm Rongou 👋
 
-👤 **Who am I?**
+AI engineer based in Milan, Computer Engineering graduate from Politecnico di Milano.
+I build LLM agents, full-stack products and the infrastructure under them, and I've founded four early-stage startups.
 
+## What I work on
+- **LLM agents & RAG** — multi-agent workflows, evals, tool use
+- **Full-stack** — TypeScript, Next.js, React, Postgres
+- **Cloud & DevOps** — Docker, Linux, AWS, Azure
+- **IoT & home automation** — ESP32, MQTT, Home Assistant
 
-# Hi there, I'm Rongou Zhou 👋🚀
+## Selected projects
+- [**pdf-archivist**](https://github.com/danizhou/pdf-archivist) — automatic PDF renaming and sorting driven by JSON templates, with OCR only when needed
+- [**PHEV Trip Calculator**](https://github.com/danizhou/Car-electric-petrol-calculator) — PWA comparing plug-in hybrid trip cost vs petrol · [live](https://danizhou.github.io/Car-electric-petrol-calculator/)
+- [**Wenzhouhua translator**](https://github.com/danizhou/wencheng-italian-translator) — Italian → Wenzhou dialects, bring-your-own-key
+- **LLM agent demo** — _link al repo pulito, quando pronto_
+- **Gippi** — _personal AI assistant orchestrator, link quando pronto_
 
-## 🤵 About Me
-- 🎓 I’m a **Computer Engineering Student** at **Politecnico di Milano** 🇮🇹, an esteemed institution leading in engineering and tech education.
-- 🌌 Eager to impact the world through technology.
-- 💡 Passionate about **Artificial Intelligence (AI)** 🤖, **Internet of Things (IoT)** 🌍, and the endless possibilities they hold.
-- 🌱 Constantly learning and growing.
+## Stack
+`TypeScript` `Python` `Next.js` `Postgres` `Docker` `Linux` `AWS` `Azure` `Ollama` `MQTT`
 
-## 🛠️ Tech Stack
-
-- programming_languages = Python, Java, C
-- iot_technologies = MQTT, Raspberry Pi,Esp32/8266 ,Arduino
-- tools = GitHub, Docker', Linux, Aws, Azure
-
-## 🔭 I’m Currently Delving Into...
-AI and IoT! I'm focusing on integrating them to devise innovative solutions for real-world applications. Keep an eye out on my repositories for some exciting projects!
-
-## 💬 Let's get social!
-- 💼 [LinkedIn](https://www.linkedin.com/in/rongou-zhou/) - Let’s connect and explore opportunities.
-
-## 📣 Quote
-> "Technology is at its best when it acts as a bridge between people." - Rongou Zhou
-
-## ⭐ Thank you for stopping by!
-Feel free to 🌟 my repositories if you find them interesting!
-
-![](https://clicktoconnect.dev/[danizhou])
-
+## Contact
+[LinkedIn](https://www.linkedin.com/in/rongou-zhou/) · portfolio: _URL_
