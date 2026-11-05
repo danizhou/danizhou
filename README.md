@@ -13,8 +13,7 @@ I build LLM agents, full-stack products and the infrastructure under them, and I
 - [**pdf-archivist**](https://github.com/danizhou/pdf-archivist) — automatic PDF renaming and sorting driven by JSON templates, with OCR only when needed
 - [**PHEV Trip Calculator**](https://github.com/danizhou/Car-electric-petrol-calculator) — PWA comparing plug-in hybrid trip cost vs petrol · [live](https://danizhou.github.io/Car-electric-petrol-calculator/)
 - [**Wenzhouhua translator**](https://github.com/danizhou/wencheng-italian-translator) — Italian → Wenzhou dialects, bring-your-own-key
-- **LLM agent demo** — _link al repo pulito, quando pronto_
-- **Gippi** — _personal AI assistant orchestrator, link quando pronto_
+
 
 ## Stack
 `TypeScript` `Python` `Next.js` `Postgres` `Docker` `Linux` `AWS` `Azure` `Ollama` `MQTT`
